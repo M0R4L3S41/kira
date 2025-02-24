@@ -146,7 +146,7 @@ def main():
         tiempo_inicio = time.time()
         finder = URLFinder(args.url, args.depth, args.workers)
 
-        # Preguntar si se desea buscar la página del administrador
+        
         buscar_admin = input("¿Deseas intentar encontrar la página del administrador? (s/n): ").strip().lower()
         if buscar_admin.startswith('s'):
             usar_diccionario = input("¿Tienes un diccionario personalizado? (s/n): ").strip().lower()
@@ -172,7 +172,7 @@ def main():
 
         urls = finder.crawl()
         
-        # Generar nombre de archivo único
+        
         base_nombre = urlparse(args.url).netloc.replace("www.", "")
         contador = 1
         while True:
