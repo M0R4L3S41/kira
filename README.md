@@ -79,7 +79,3 @@ python kira.py https://www.ejemplo.com --workers 10
 - No puede acceder a contenido protegido por contraseñas o detrás de formularios de inicio de sesión.
 - Algunos sitios web pueden tener medidas para prevenir este tipo de exploración automática.
 
-
-## Soporte
-
-Si tienes preguntas sobre cómo usar KIRA o encuentras algún problema, por favor contacta al equipo de soporte técnico.
