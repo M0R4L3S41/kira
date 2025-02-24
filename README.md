@@ -1,7 +1,3 @@
-Ciertamente. Aquí tienes una explicación más detallada y orientada al usuario final, especialmente para aquellos que no tienen un trasfondo técnico en programación:
-
----
-
 # KIRA - Herramienta de Búsqueda de URLs
 
 ## ¿Qué es KIRA?
